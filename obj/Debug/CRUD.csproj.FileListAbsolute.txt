@@ -1,0 +1,32 @@
+c:\users\dev_1\documents\visual studio 2015\Projects\CRUD\CRUD\bin\Debug\CRUD.exe.config
+c:\users\dev_1\documents\visual studio 2015\Projects\CRUD\CRUD\bin\Debug\CRUD.exe
+c:\users\dev_1\documents\visual studio 2015\Projects\CRUD\CRUD\bin\Debug\CRUD.pdb
+c:\users\dev_1\documents\visual studio 2015\Projects\CRUD\CRUD\obj\Debug\CRUD.csprojResolveAssemblyReference.cache
+c:\users\dev_1\documents\visual studio 2015\Projects\CRUD\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+c:\users\dev_1\documents\visual studio 2015\Projects\CRUD\CRUD\obj\Debug\CRUD.csproj.GenerateResource.Cache
+c:\users\dev_1\documents\visual studio 2015\Projects\CRUD\CRUD\obj\Debug\CRUD.exe
+c:\users\dev_1\documents\visual studio 2015\Projects\CRUD\CRUD\obj\Debug\CRUD.pdb
+c:\users\dev_1\documents\visual studio 2015\Projects\CRUD\CRUD\bin\Debug\LiteDB.dll
+c:\users\dev_1\documents\visual studio 2015\Projects\CRUD\CRUD\bin\Debug\Newtonsoft.Json.dll
+c:\users\dev_1\documents\visual studio 2015\Projects\CRUD\CRUD\bin\Debug\LiteDB.xml
+c:\users\dev_1\documents\visual studio 2015\Projects\CRUD\CRUD\bin\Debug\Newtonsoft.Json.xml
+c:\users\dev_1\documents\visual studio 2015\Projects\CRUD\CRUD\obj\Debug\CRUD.Main.resources
+c:\users\dev_1\documents\visual studio 2015\Projects\CRUD\CRUD\obj\Debug\CRUD.AddCustomer.resources
+C:\Users\jv\Downloads\crud\CRUD\CRUD\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\jv\Downloads\crud\CRUD\CRUD\CRUD\obj\Debug\CRUD.exe
+C:\Users\jv\Downloads\crud\CRUD\CRUD\CRUD\obj\Debug\CRUD.pdb
+C:\Users\jv\Downloads\crud\CRUD\CRUD\CRUD\bin\Debug\CRUD.exe
+C:\Users\jv\Downloads\crud\CRUD\CRUD\CRUD\bin\Debug\CRUD.pdb
+C:\Users\jv\Downloads\crud\CRUD\CRUD\CRUD\bin\Debug\LiteDB.dll
+C:\Users\jv\Downloads\crud\CRUD\CRUD\CRUD\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jv\Downloads\crud\CRUD\CRUD\CRUD\bin\Debug\LiteDB.xml
+C:\Users\jv\Downloads\crud\CRUD\CRUD\CRUD\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jv\Downloads\crud\CRUD\CRUD\CRUD\obj\Debug\CRUD.csprojResolveAssemblyReference.cache
+C:\Users\jv\Downloads\crud\CRUD\CRUD\CRUD\obj\Debug\CRUD.AddCustomer.resources
+C:\Users\jv\Downloads\crud\CRUD\CRUD\CRUD\obj\Debug\CRUD.Main.resources
+C:\Users\jv\Downloads\crud\CRUD\CRUD\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+C:\Users\jv\Downloads\crud\CRUD\CRUD\CRUD\obj\Debug\CRUD.csproj.GenerateResource.Cache
+C:\Users\jv\Downloads\crud\CRUD\CRUD\CRUD\obj\Debug\CRUD.Finance.resources
+C:\Users\jv\Downloads\crud\CRUD\CRUD\CRUD\obj\Debug\CRUD.AddFinance.resources
+C:\Users\jv\Downloads\crud\CRUD\CRUD\CRUD\obj\Debug\CRUD.MDIParent1.resources
+C:\Users\jv\Downloads\crud\CRUD\CRUD\CRUD\obj\Debug\CRUD.LogIn.resources
